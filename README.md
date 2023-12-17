@@ -6,10 +6,10 @@ Este projeto automatiza a consulta de informações de veículos no Detran utili
 
 ## Dependências
 
--pandas
--openpyxl
--selenium
--webdriver_manager
+- pandas
+- openpyxl
+- selenium
+- webdriver_manager
 
 ## Autor
 
